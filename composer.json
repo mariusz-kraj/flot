@@ -1,0 +1,7 @@
+{
+	"name": "jquery/flot",
+	"description": "Flot is a Javascript plotting library for jQuery.",
+	"homepage": "http://www.flotcharts.org/",
+	"author": "IOLA and Ole Laursen",
+	"license": "GPL v2 or BSD"
+}
